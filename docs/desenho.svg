@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29167 132.29167"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="/home/renato/AndroidStudioProjects/UpDrive/app/src/main/res/drawable/logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="desenho.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     width="500px"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.4788159"
+     inkscape:cx="174.80201"
+     inkscape:cy="254.93369"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="109.18225,51.694563"
+       orientation="1,0"
+       id="guide47864" />
+    <sodipodi:guide
+       position="23.203202,47.849208"
+       orientation="1,0"
+       id="guide47866" />
+    <sodipodi:guide
+       position="-0.97028771,123.3974"
+       orientation="0,-1"
+       id="guide121432" />
+    <sodipodi:guide
+       position="-16.639157,9.3766066"
+       orientation="0,-1"
+       id="guide121434" />
+    <sodipodi:guide
+       position="-18.920736,52.86767"
+       orientation="0,-1"
+       id="guide121436" />
+    <sodipodi:guide
+       position="-39.361447,39.79227"
+       orientation="0,-1"
+       id="guide121438" />
+    <sodipodi:guide
+       position="125.95663,105.09649"
+       orientation="1,0"
+       id="guide121440" />
+    <sodipodi:guide
+       position="6.6198797,71.102512"
+       orientation="1,0"
+       id="guide121442" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g128770">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:31.5073px;line-height:1.25;font-family:sans-serif;fill:#73af9f;fill-opacity:1;stroke:none;stroke-width:0.843949"
+         x="6.0388837"
+         y="104.99313"
+         id="text4492"
+         transform="scale(0.8946238,1.1177883)"><tspan
+           sodipodi:role="line"
+           id="tspan4490"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.5073px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#73af9f;fill-opacity:1;stroke-width:0.843949"
+           x="6.0388837"
+           y="104.99313">UpDriver</tspan></text>
+      <g
+         id="g79668"
+         transform="matrix(1,0,0,0.99008692,1.0308838e-6,5.6421219)">
+        <rect
+           style="fill:#73af9f;stroke-width:0.264583"
+           id="rect360"
+           width="86.072823"
+           height="71.235901"
+           x="23.109423"
+           y="3.2847097"
+           ry="7.3884373" />
+        <path
+           id="rect78821"
+           style="stroke-width:0.26829"
+           d="m 86.74689,20.89336 c -0.16058,-0.0034 -0.616548,-0.0052 -0.777082,0.05618 l -11.436873,4.374162 c -0.73387,0.280663 -1.075798,1.151067 -0.815037,1.969141 l 0.80596,2.664309 c 0.260758,0.818077 1.061355,1.250799 1.795225,0.970135 l 4.764709,-1.821942 -5.916278,12.446301 -13.1372,-15.869276 c -0.26377,-0.318623 -0.574394,-0.557387 -0.908546,-0.716857 -0.414785,-0.245808 -0.894992,-0.308571 -1.391701,-0.210758 -0.406995,0.06113 -0.804507,0.228353 -1.158169,0.503787 -0.59198,0.39932 -1.15319,1.004136 -1.598828,1.77758 L 42.126273,51.340346 c -1.148879,1.993984 -1.081674,4.32468 0.150598,5.225516 1.232273,0.900833 3.097443,-0.01773 4.298059,-1.973086 l 13.688629,-22.2937 13.46398,16.263986 c 0.380982,0.460207 0.859865,0.755048 1.366119,0.882321 1.171778,0.359844 2.444376,-0.219427 3.040453,-1.473462 l 7.053408,-14.839057 0.539267,4.05895 c 0.114167,0.859194 0.822343,1.438146 1.587686,1.298289 l 2.479317,-0.452945 c 0.765345,-0.139855 1.289666,-0.944269 1.1755,-1.803463 L 89.190155,22.844064 C 88.976328,21.954743 88.626764,21.746017 88.050506,21.361649 87.543378,21.103537 87.263837,20.957187 86.74689,20.89336 Z"
+           sodipodi:nodetypes="ccccccccccccccsccccscccccccc" />
+      </g>
+    </g>
+  </g>
+</svg>
