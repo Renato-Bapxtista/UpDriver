@@ -13,6 +13,18 @@
         android:theme="@style/Theme.UpDrive">
 
         <activity
+            android:name=".ActiveShiftActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".DashboardActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+
+        <activity
             android:name=".LoadingActivity"
             android:exported="true">
             <intent-filter>

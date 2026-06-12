@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/ic_dashboard"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/nav_shifts"
+        android:icon="@drawable/ic_clock"
+        android:title="Turnos" />
+    <item
+        android:id="@+id/nav_expenses"
+        android:icon="@drawable/ic_receipt"
+        android:title="Despesas" />
+    <item
+        android:id="@+id/nav_vehicle"
+        android:icon="@drawable/ic_car"
+        android:title="Veículo" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_person"
+        android:title="Perfil" />
+</menu>

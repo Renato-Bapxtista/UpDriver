@@ -11,9 +11,9 @@ class LoadingActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_loading)
 
-        // Simula um carregamento de 3 segundos e vai para a tela de Cadastro
+        // Simula um carregamento de 3 segundos e vai para a tela de Login
         Handler(Looper.getMainLooper()).postDelayed({
-            val intent = Intent(this, RegisterActivity::class.java)
+            val intent = Intent(this, LoginActivity::class.java)
             startActivity(intent)
             finish()
         }, 3000)

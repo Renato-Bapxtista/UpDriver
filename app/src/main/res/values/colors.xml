@@ -5,4 +5,6 @@
     <color name="background_dark">#0B1218</color>
     <color name="primary_green">#10B981</color>
     <color name="text_secondary">#94A3B8</color>
+    <color name="card_dark">#151C24</color>
+    <color name="progress_track">#2D3748</color>
 </resources>
